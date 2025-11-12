@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "title": "Workshop React",
+    "date": "2025-11-05",
+    "type": "Workshop",
+    "video": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    "description": "Belajar React untuk pemula"
+  },
+  {
+    "id": 2,
+    "title": "Seminar UX/UI",
+    "date": "2025-11-12",
+    "type": "Seminar",
+    "video": "https://www.youtube.com/embed/3JZ_D3ELwOQ",
+    "description": "Tips desain UX/UI"
+  },
+  {
+    "id": 3,
+    "title": "Hackathon",
+    "date": "2025-12-01",
+    "type": "Competition",
+    "video": "https://www.youtube.com/embed/tVj0ZTS4WF4",
+    "description": "Kompetisi coding 24 jam"
+  }
+]
